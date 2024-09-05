@@ -1,0 +1,7 @@
+
+Patient (Ur number – Name – Address - Age – Email – phone - medical card number)
+Doctor (ID – Name – Email – phone - specialization - years of experience)
+Drug (trade name– strength - Drug company name)
+Drug company (Name – Address– phone)
+prescription (id – Ur number - Doctor ID – trade name - dosage date - quantity)
+Patient – Doctor (id – Doctor ID – Ur number)
